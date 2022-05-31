@@ -3,7 +3,7 @@ ME41125
 Jingwen Tang
 
 ## Project description
-LQR control is applied to a Rotary Inverted Pendulum system, and see how large the applied torque is during the balancing process, as well as the motion states(the angular position, angular speed).
+LQR control is applied to a Rotary Inverted Pendulum system to see how large the applied torque is during the balancing process, as well as the motion states(the angular position, angular speed).
 
 ## File description
 1. The main source code is "scfinal".
