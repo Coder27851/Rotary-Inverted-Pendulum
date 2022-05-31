@@ -1,4 +1,7 @@
-# Rotary-Inverted-Pendulum
+# Course code
+ME46060 
+# Author 
+Jingwen Tang
 
 ## Project description
 We apply LQR control to a Rotary Inverted Pendulum system, and see how large the applied torque is during the balancing process, as well as the motion states(the angular position, angular speed).
