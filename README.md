@@ -1,6 +1,5 @@
-# Course code
-ME41125
-# Author 
+## Course code and author
+ME41125 
 Jingwen Tang
 
 ## Project description
